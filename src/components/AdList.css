@@ -1,0 +1,16 @@
+.ad-list {
+  padding: 20px;
+}
+
+.ad-list h2 {
+  text-align: center;
+  color: #282c34;
+  margin-bottom: 30px;
+}
+
+.ad-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
